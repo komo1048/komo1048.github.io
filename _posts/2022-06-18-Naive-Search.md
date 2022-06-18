@@ -4,6 +4,7 @@ excerpt: "문자열 검색 Naive Pattern Searching Algorithm"
 
 categories:
   - Javascript
+  - Algorithm
 tags:
   - [Javascript, Algorithm]
 

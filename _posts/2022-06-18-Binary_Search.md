@@ -4,6 +4,7 @@ excerpt: "이진탐색 Binary Search"
 
 categories:
   - Javascript
+  - Algorithm
 tags:
   - [Javascript, Algorithm]
 
