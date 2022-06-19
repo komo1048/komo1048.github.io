@@ -3,7 +3,8 @@ title: "[알고리즘] 버블정렬"
 excerpt: "버블 정렬에 대해 알아보자"
 
 categories:
-  - javascript, Algorithm
+  - javascript
+  - Algorithm
 tags:
   - [Algorithm, Javascript]
 
