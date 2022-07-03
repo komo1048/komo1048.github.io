@@ -1,5 +1,5 @@
 ---
-title: "오늘의 배움 Lexical Scope"
+title: "[오늘의 배움] Lexical Scope"
 excerpt: "Lexical Scope에 대해 알아보자"
 
 categories:
