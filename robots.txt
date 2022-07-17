@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://komo1048.github.io/sitemap.xml
